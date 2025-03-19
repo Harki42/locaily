@@ -1,0 +1,26 @@
+
+
+My name is Harkirat Rakhraj, Recent Graduate of Ivey Business School's Master of Science in Digital Management and I am the founder of LocAIly. As a fellow London-based professional and recent graduate with a Master of Science in Digital Management from Ivey Business School, I believe there’s an excellent opportunity to enhance your internal efficiency through secure, locally hosted AI solutions.
+
+Many organizations hesitate to adopt AI due to valid concerns about sensitive data leakage—particularly when utilizing external services like Google, Microsoft, or DeepSeek. To address this, I provide a secure and fully private solution where advanced Large Language Models (LLMs)—including Meta’s LLaMA, Google’s Gemma, Microsoft's Phi, and DeepSeek—are locally hosted, customized, and fine-tuned specifically to your organization's needs, ensuring your confidential data never leaves your premises.
+
+Benefits Specifically for Clients
+
+    Data Security and Privacy: No risk of data leaks to external providers, ensuring your information stays secure and confidential.
+    Customized and Fine-Tuned: AI models specifically adapted to match your organization's processes, terminology, and industry requirements.
+    Cost Predictability: One-time upfront pricing based clearly on the number of concurrent users and required GPU infrastructure, without hidden fees.
+
+To best tailor this solution to your needs, could you share an estimate of how many employees currently work on-premises at your organization, and how many of them might concurrently access such an AI tool?
+
+I’m currently scheduling short calls next week to discuss this further, and I would be happy to reserve a convenient time slot for you. Simply reply to this email with your availability or any preliminary questions you might have.
+
+Thanks very much—I look forward to potentially collaborating to enhance your organization's operations.
+
+
+Warm regards,
+
+Harkirat Rakhraj
+MSc Digital Management, Ivey Business School
+hrakhraj.msc2023@ivey.ca
+(647)-303-0262
+
